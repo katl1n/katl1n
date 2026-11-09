@@ -1,10 +1,7 @@
-<h3 align="center">bio</h3>
 
----
+`interested in software development, web development, audio engineering, DSP, and creative technologies.`
 
-`-- interested in software development, web development, audio engineering, DSP, and creative technologies.`
-
-`-- currently self-studying development technologies and working on projects`
+`currently self-studying development technologies and working on projects`
 
 ---
 
